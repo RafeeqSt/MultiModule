@@ -16,13 +16,13 @@ public class TestClass {
 
     @Ignore
     @Test
-    public void subtract() {
+    public void disabling() {
         int result = calculator.add(2,2);
         Assert.assertEquals(1234,result);
     }
 
-    @Test
-    public void compareValues()
+    @Test(timeout = 1000) //timeout cant be made small enough to affect the test results
+    public void objectEquality()
         {
             objectA objA = new objectA("Bob");
             objectB objB = new objectB("Bob");
@@ -31,7 +31,7 @@ public class TestClass {
         }
 
     @Test
-    public void compareHashValues() //Meant to Fail test
+    public void objectIdentityAndFailing() //Meant to Fail test
         {
             objectA objA = new objectA("Jack");
             objectB objB = new objectB("Jack");
