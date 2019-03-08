@@ -1,13 +1,8 @@
 package calculatorTesProject;
 
 public class calculator {
-    public static int add(int a, int b)
+    public static int getNum()
         {
-            return a+b;
-        }
-
-    public static int subtract(int a, int b)
-        {
-            return a-b;
+            return 2;
         }
 }

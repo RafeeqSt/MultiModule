@@ -2,18 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1f8388a-150f-478b-88ab-c91a028241e1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/add/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add/src/main/java/calculatorTesProject/calculatorAdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/divide/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/divide/src/main/java/calculatorTesProject/calculatorDivide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multiply/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multiply/src/main/java/calculatorTesProject/calculatorMultiply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subtract/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subtract/src/main/java/calculatorTesProject/calculatorSubtract.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CalculatedValues/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CalculatedValues/src/main/java/calculatorTesProject/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CalculatedValues/src/test/java/calculatorTesProject/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalcTestProj.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/calculatorTesProject/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/calculatorTesProject/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/calculatorTesProject/calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/calculatorTesProject/calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/calculatorTesProject/objectA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/calculatorTesProject/objectB.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/calculatorTesProject/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/calculatorTesProject/TestClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/calculatorTesProject/TestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/calculatorTesProject/TestClass.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/CalculatedValues/target/" />
+    <ignored path="$PROJECT_DIR$/add/target/" />
+    <ignored path="$PROJECT_DIR$/subtract/target/" />
+    <ignored path="$PROJECT_DIR$/multiply/target/" />
+    <ignored path="$PROJECT_DIR$/divide/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,32 +36,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/calculatorTesProject/calculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+            <state relative-caret-position="85">
+              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
               <folding>
-                <element signature="e#105#106#0" expanded="true" />
-                <element signature="e#139#140#0" expanded="true" />
+                <element signature="e#96#97#0" expanded="true" />
+                <element signature="e#128#129#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/calculatorTesProject/TestClass.java">
+        <entry file="file://$PROJECT_DIR$/add/src/main/java/calculatorTesProject/calculatorAdd.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="23" column="88" selection-start-line="23" selection-start-column="88" selection-end-line="23" selection-end-column="88" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="51">
+              <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/subtract/src/main/java/calculatorTesProject/calculatorSubtract.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -55,30 +70,39 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/calculatorTesProject/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="42" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="42" />
+            <state relative-caret-position="180">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/calculatorTesProject/objectA.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/add/src/test/java/calculatorTesProject/AppTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="221">
+              <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
               <folding>
-                <element signature="e#111#112#0" expanded="true" />
-                <element signature="e#151#152#0" expanded="true" />
+                <element signature="e#254#255#0" expanded="true" />
+                <element signature="e#288#289#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/calculatorTesProject/objectB.java">
+        <entry file="file://$PROJECT_DIR$/multiply/src/main/java/calculatorTesProject/calculatorMultiply.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+            <state relative-caret-position="136">
+              <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/divide/src/main/java/calculatorTesProject/calculatorDivide.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -101,12 +125,29 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/calculatorTesProject/objectA.java" />
         <option value="$PROJECT_DIR$/src/main/java/calculatorTesProject/objectB.java" />
-        <option value="$PROJECT_DIR$/src/main/java/calculatorTesProject/App.java" />
-        <option value="$PROJECT_DIR$/src/main/java/calculatorTesProject/calculator.java" />
         <option value="$PROJECT_DIR$/src/test/java/calculatorTesProject/calculatorTest.java" />
         <option value="$PROJECT_DIR$/CalculatedValues/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/calculatorTesProject/TestClass.java" />
+        <option value="$PROJECT_DIR$/add/pom.xml" />
+        <option value="$PROJECT_DIR$/subtract/pom.xml" />
+        <option value="$PROJECT_DIR$/multiply/pom.xml" />
+        <option value="$PROJECT_DIR$/divide/pom.xml" />
+        <option value="$PROJECT_DIR$/add/src/main/java/calculatorTesProject/App.java" />
+        <option value="$PROJECT_DIR$/subtract/src/main/java/calculatorTesProject/calculatorSubtract.java" />
+        <option value="$PROJECT_DIR$/multiply/src/main/java/calculatorTesProject/calculatorMultiply.java" />
+        <option value="$PROJECT_DIR$/divide/src/main/java/calculatorTesProject/calculatorDivide.java" />
+        <option value="$PROJECT_DIR$/src/main/java/calculatorTesProject/calculator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/calculatorTesProject/App.java" />
+        <option value="$PROJECT_DIR$/add/src/main/java/calculatorTesProject/calculatorAdd.java" />
       </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
@@ -115,80 +156,36 @@
     <option name="width" value="974" />
     <option name="height" value="1087" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="CalcTestProj" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CalcTestProj" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CalcTestProj" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CalcTestProj" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CalcTestProj" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CalcTestProj" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CalcTestProj" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CalcTestProj" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CalcTestProj" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CalcTestProj" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="calculatorTesProject" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CalcTestProj" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CalcTestProj" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CalcTestProj" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CalcTestProj" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CalcTestProj" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CalcTestProj" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="calculatorTesProject" type="462c0819:PsiDirectoryNode" />
+              <item name="MultiModule" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MultiModule" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552065717669" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552073116799" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -295,8 +292,24 @@
       <workItem from="1551904061420" duration="263000" />
       <workItem from="1551904850847" duration="1680000" />
       <workItem from="1552055020620" duration="3401000" />
-      <workItem from="1552059000811" duration="3021000" />
+      <workItem from="1552059000811" duration="3213000" />
+      <workItem from="1552066657870" duration="6254000" />
     </task>
+    <task id="LOCAL-00001" summary="Edit 1">
+      <created>1552066297370</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1552066297370</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Edit 1">
+      <created>1552066382660</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1552066382660</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -317,12 +330,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8365000" />
+    <option name="totallyTimeSpent" value="14811000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25746268" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26012793" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -330,14 +343,14 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32917964" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32917964" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.32917964" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32917964" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -387,21 +400,12 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Edit 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Edit 1" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/calculatorTesProject/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="42" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/calculatorTesProject/objectB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/CalculatedValues/pom.xml" />
     <entry file="file://$PROJECT_DIR$/src/main/java/calculatorTesProject/objectA.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -413,36 +417,153 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CalculatedValues/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/test/java/calculatorTesProject/AppTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+        <state relative-caret-position="119">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/calculatorTesProject/TestClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="23" column="88" selection-start-line="23" selection-start-column="88" selection-end-line="23" selection-end-column="88" />
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/calculatorTesProject/calculator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/calculatorTesProject/objectB.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-          <folding>
-            <element signature="e#105#106#0" expanded="true" />
-            <element signature="e#139#140#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="51">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multiply/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add/src/main/java/calculatorTesProject/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="45" lean-forward="true" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+          <folding>
+            <element signature="e#127#128#0" expanded="true" />
+            <element signature="e#179#180#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subtract/src/main/java/calculatorTesProject/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="44" lean-forward="true" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+          <folding>
+            <element signature="e#127#128#0" expanded="true" />
+            <element signature="e#179#180#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/divide/src/main/java/calculatorTesProject/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="e#179#180#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/divide/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="36" column="19" lean-forward="true" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="31" column="20" lean-forward="true" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subtract/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="31" column="20" lean-forward="true" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subtract/src/main/java/calculatorTesProject/calculatorSubtract.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multiply/src/main/java/calculatorTesProject/calculatorMultiply.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/calculatorTesProject/calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <folding>
+            <element signature="e#96#97#0" expanded="true" />
+            <element signature="e#128#129#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/divide/src/main/java/calculatorTesProject/calculatorDivide.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add/src/main/java/calculatorTesProject/calculatorAdd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/calculatorTesProject/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add/src/test/java/calculatorTesProject/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+          <folding>
+            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#288#289#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
